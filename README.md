@@ -1,6 +1,6 @@
 ### Hey there :wave: I'm Kirill.
 Senior Software Engineer from Russia based in Saint Petersburg. 
-My primary languages is C++ and C#.
+My primary languages are C++ and C#.
 
 ### :information_source: About Me
 - :airplane: Currently I'm working on aircraft's engines diagnostics software.
