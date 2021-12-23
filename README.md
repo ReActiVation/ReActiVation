@@ -1,18 +1,19 @@
-### Hey there :wave: I'm Kirill.
-Senior Software Engineer from Russia based in Saint Petersburg. 
+### Hello :wave: I'm Kirill.
+Software Engineer from Russia based in Saint Petersburg. 
 My primary languages are C++ and C#.
 
 ### :information_source: About Me
-- :car: Currently I'm working on autopilot software in Automotive.
+- :car: I'm currrently working on autopilot software in Automotive.
 - :mortar_board: Bachelor's degree in Computer Science at Don State Technical University.
 - :mortar_board: Masters's degree in Computer Science at Saint Petersburg Electrotechnical University "LETI".
 - :computer: You can access all of my open-source projects on this GitHub page.
 
 ### :book: Experience
-- Cross-platform desktop applications development.
-- Building RESTful APIs.
-- Building SPA client applications.
-- Building mobile applications.
+- Developing Cross-platform desktop applications.
+- Developing RESTful APIs.
+- Developing SPA client applications.
+- Developing mobile applications.
+- Developing CLI tools.
 
 ### :bar_chart: My Stats
 [![Krills's GitHub stats](https://github-readme-stats.vercel.app/api?username=reactivation&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
