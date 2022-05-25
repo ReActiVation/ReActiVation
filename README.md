@@ -3,7 +3,7 @@ Software Engineer from Russia based in Saint Petersburg.
 My primary languages are C++ and C#.
 
 ### :information_source: About Me
-- :car: I'm currrently working on autopilot software in Automotive.
+- :chart: I'm currrently working on developing web statistics sevices.
 - :mortar_board: Bachelor's degree in Computer Science at Don State Technical University.
 - :mortar_board: Masters's degree in Computer Science at Saint Petersburg Electrotechnical University "LETI".
 - :computer: You can access all of my open-source projects on this GitHub page.
